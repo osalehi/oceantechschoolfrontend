@@ -16,8 +16,12 @@
   translate: -0.2rem -0.2rem;
 }
 
+
 .card > h2 {
   font-size: 2rem;
+  border-left: 8px solid rgb(38, 134, 186);
+  padding-left: 16px;
+
 }
 
 .card > img {
